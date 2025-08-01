@@ -8,10 +8,9 @@ a "USB Host" and a "USB CDC-ACM Device". Please see individual README
 files for details on each experiment/project.
 
 NOTE:
-<span style="color: red;">
 This is work in progress in that so far only the first two experiments
 are complete and cleaned-up. When everything will be done and update, this 
-note will be removed.</span>
+note will be removed.
 
 Here is the list of experiments:
 
